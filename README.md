@@ -4,8 +4,6 @@
 
 > A curated list of tools, frameworks, datasets, educational resources, and community links for **neuroscience**. This list focuses on computational tools and software for understanding the brain, analyzing neural data, and building neurotechnological solutions.
 
----
-
 ## Contents
 
 - [General Resources](#general-resources)
