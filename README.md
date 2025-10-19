@@ -87,6 +87,7 @@
 - **[NeuroStars](https://neurostars.org/)** - A community platform for neuroscience-related questions and discussions.
 - **[BrainHack](https://brainhack.org/)** - A community for open neuroscience and collaborative research.
 - **[Stack Overflow: Neuroscience](https://stackoverflow.com/questions/tagged/neuroscience)** - Q&A for neuroscience-related programming questions.
+- **[Online Neuroscience Network Research Center (ONNRC)](https://www.neuronet-research.org/)** - A virtual platform for global neuroscience collaboration, focusing on computational neuroscience, data analysis, and open research workflows. See also its [LinkedIn page](https://www.linkedin.com/company/onnrc).
 
 ## Contribute
 
